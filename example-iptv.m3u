@@ -79,17 +79,3 @@ http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/
 http://210.210.155.35/x6bnqe/s/s100/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Live Streaming 2
 http://210.210.155.35/uq2663/h/h998/live.m3u8
-
-#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-country="HK;SG;MY;ID;TW;BN;BD" tvg-language="Chinese" tvg-logo="" group-title="Bo_Movie",Celestial Movies (480p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="Bo_Movie",Zee Bioskop
-http://45.126.83.51/qwr9ew/s/s32/01.m3u8
-#EXTINF:-1 group-title="Bo_Movie",Thrill 2
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Music",MusiC One
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Music",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Music",MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
