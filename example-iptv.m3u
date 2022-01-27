@@ -25,10 +25,6 @@ http://210.210.155.35/qwr9ew/s/s12/01.m3u8
 https://e1.siar.us/badartv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",CTV Banten
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",TVOne
-http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Bali TV
