@@ -7,22 +7,6 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Magna Channel HD
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",INDOSIAR CH1
-http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",INDOSIAR CH2
-http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",TRANS 7 CH1
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",TRANS TV CH1
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",SCTV CH1
-http://45.126.83.51/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",SCTV CH2
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",KompasTV
-http://210.210.155.35/qwr9ew/s/s104/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Elshinta TV
-http://210.210.155.35/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",BERITA SATU WORLD
