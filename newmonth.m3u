@@ -1,0 +1,394 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KPlus.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/4DEUpdm.jpg" group-title="Bo Korea",K+ (576p) [Geo-blocked]
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="One.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Bo Korea",One (Indonesian Sub) [Geo-blocked]
+http://210.210.155.35/uq2663/h/h143/02.m3u8
+#EXTINF:-1 tvg-id="AniPlus.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Bo Korea",AniPlus (Malay subtitles) (576p) [Geo-blocked]
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Bo Korea",Arirang Radio (720p)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 tvg-id="Arirang.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="Bo Korea",Arirang (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CJBceongjubangsongSBSQingZhou.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="Bo Korea",CJB청주방송 (SBS 淸州) (540p) [Not 24/7]
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKIDS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="Bo Korea",EBS KIDS (360p)
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="Bo Korea",EBS Kids (360p)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Bo Korea",EBS Plus 1 (360p)
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Bo Korea",EBS Plus 2 (360p)
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.epg.best/kr/EBSPlus1.kr.png" group-title="Bo Korea",EBS+ 1 (400p)
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.epg.best/kr/EBSPlus2.kr.png" group-title="Bo Korea",EBS+ 2 (400p)
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="SBSKNN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png" group-title="Bo Korea",SBS KNN (450p) [Not 24/7]
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TBCdaeguSBSDaQiu.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.tbc.co.kr/tbc_common/images/sm12_ci.png" group-title="Bo Korea",TBC 대구 (SBS 大邱) (540p) [Geo-blocked]
+http://221.157.125.239:1935/live/psike/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/wqlTcbI.png" group-title="Bo Korea",TBS (720p)
+https://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS1.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/s1y2zoe.png" group-title="Bo Korea",EBS 1 (400p)
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1 tvg-id="EBS1.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="Bo Korea",EBS 1 (400p)
+http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Bo Korea",EBS 2 (400p)
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSe.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="Bo Korea",EBS e (400p)
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSe.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_03.png" group-title="Bo Korea",EBSe (400p)
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="GCN.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="Bo Korea",GCN (480p) [Not 24/7]
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Bo Korea",Gugbang TV (404p)
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JIBSSBS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png" group-title="Bo Korea",JIBS SBS (720p) [Not 24/7]
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-1 tvg-id="KBCgwangjubangsongSBSGuangZhou.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="Bo Korea",KBC 광주방송 (SBS 光州) (1080p)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="Bo Korea",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png" group-title="Bo Korea",KBS World (576p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KCTVgwangjuCH05.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png" group-title="Bo Korea",KCTV 광주 CH05 (720p) [Not 24/7]
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 tvg-id="MBCYeosu.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png" group-title="Bo Korea",MBC Yeosu (540p) [Not 24/7]
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnet.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1900/C00579.png" group-title="Bo Korea",Mnet (576p) [Geo-blocked]
+http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+#EXTINF:-1 tvg-id="NBSKoreaAgriculturalBroadcasting.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="Bo Korea",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.tbs.seoul.kr/common/images/gnb/logo.png" group-title="Bo Korea",TBS (540p)
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+#EXTINF:-1 tvg-id="TJBdaejeonbangsongSBSDaTian.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg" group-title="Bo Korea",TJB 대전방송 (SBS 大田) (720p) [Not 24/7]
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="TVWorkNet.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="Bo Korea",TVWorkNet (480p)
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="gayoTV.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://gayotv.co.kr/image/logo.jpg" group-title="Bo Korea",가요TV (1080p)
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1 tvg-id="gugagbangsong.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg" group-title="Bo Korea",국악방송 (1080p)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="hangugseongeobangsong.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="http://www.etv.go.kr/images/newimg/logo.png" group-title="Bo Korea",한국선거방송 (720p)
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 tvg-id="BBSBuddhistBroadcasting.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="Bo Korea",BBS Buddhist Broadcasting (1080p) [Not 24/7]
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="Bo Korea",CBS (1080p)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-id="Channel67.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="" group-title="Bo Korea",Channel 67 (1080p)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/iptvm3uplaylists.m3u8
+
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Bo Kids",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" tvg-country="AM" tvg-language="Armenian" tvg-logo="https://i.imgur.com/XjhkUXy.png" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="Kids",Armenia Տուն Թունիկ (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 tvg-id="AtfalWaMawaheb.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="Bo Kids",Atfal Wa Mawaheb (1080p)
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1 tvg-id="BatteryPopXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/5VUZTa1.png" group-title="Bo Kids",Battery Pop (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Bo Kids",Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CampSpoopy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/t3Jsks7.png" group-title="Bo Kids",Camp Spoopy (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-id="Cocoro.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg" group-title="Bo Kids",Cocoro (1080p)
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="Cufo.al" tvg-country="AL" tvg-language="Albanian" tvg-logo="https://i.imgur.com/cjVAXnZ.png" group-title="Bo Kids",Çufo (576p)
+http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Bo Kids",Duck TV (720p)
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKIDS.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="Bo Kids",EBS KIDS (360p)
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="Bo Kids",EBS Kids (360p)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-id="EnkiBenki.ge" tvg-country="GE" tvg-language="Georgian" tvg-logo="https://i.imgur.com/RJAT25i.jpg" group-title="Bo Kids",Enki Benki (360p)
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 tvg-id="FiremanSam.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/umyEio1.jpg" group-title="Bo Kids",Fireman Sam (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Bo Kids",Gulli (540p)
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Bo Kids",HappyKids Junior (720p)
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IGNTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png" group-title="Bo Kids",IGN TV (720p)
+https://ign-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV.gr" tvg-country="GR" tvg-language="" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Bo Kids",Kids TV (480p)
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 tvg-id="KidsClick.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/KidsClick.png" group-title="Bo Kids",KidsClick (720p) [Geo-blocked]
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/I5A1mMZ.jpg" group-title="Bo Kids",Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Bo Kids",Kuriakos Kids (1080p)
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="Lale.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="" group-title="Bo Kids",Lale (504p)
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:-1 tvg-id="LegoChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Bo Kids",Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LEGOChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="Bo Kids",LEGO Channels (720p)
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKidsFlorida.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Bo Kids",PBS Kids Florida (1080p)
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
+#EXTINF:-1 tvg-id="Skwad.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sv7WkKe.png" group-title="Bo Kids",SKWAD (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 tvg-id="TahaTV.lb" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://tahatv.com/images/menue%20bar/77_46.png" group-title="Bo Kids",Taha TV (360p) [Not 24/7]
+https://media2.livaat.com/TAHA-TV/index.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="Bo Kids",Toon Goggles (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+#EXTINF:-1 tvg-id="Toonix.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Bo Kids",Toonix (720p) [Not 24/7]
+http://51.210.227.134/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVOKids.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png" group-title="Bo Kids",TVOKids (360p) [Not 24/7]
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 tvg-id="WatchItKid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/DAhbkLv.png" group-title="Bo Kids",Watch It Kid (720p)
+https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
+#EXTINF:-1 tvg-id="YoGabbaGabba.us" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/RwxgFfb.jpg" group-title="Bo Kids",Yo Gabba Gabba! (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ZooMooAustralia.nz" tvg-country="NZ" tvg-language="" tvg-logo="https://i.imgur.com/1wYnA2i.jpg" group-title="Bo Kids",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Balastan.kg" tvg-country="KG" tvg-language="Kyrgyz;Russian" tvg-logo="http://www.ktrk.kg/images/channels/balastan_white_notext.png" group-title="Bo Kids",Баластан (576p)
+http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Karusel.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a0000017019a2436d387c572a4650c86f92/160x120" group-title="Bo Kids",Карусель
+http://91.185.3.218:4000/play/604
+#EXTINF:-1 tvg-id="O.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="Bo Kids",О! (576p) [Not 24/7]
+https://sc.id-tv.kz/o.m3u8
+#EXTINF:-1 tvg-id="SmaylikTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png" group-title="Bo Kids",Смайлик ТВ (720p)
+http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 tvg-id="Tamyr.ru" tvg-country="RU" tvg-language="Bashkir" tvg-logo="https://i.imgur.com/ySedtZl.png" group-title="Bo Kids",Тамыр (576p)
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1 tvg-id="HaHaXuanDong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="Bo Kids",哈哈炫动卫视 (480p) [Not 24/7]
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="JiaJiaQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="Bo Kids",嘉佳卡通 (576p)
+http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8
+#EXTINF:-1 tvg-id="XuanDongQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Bo Kids",炫动卡通 (576p)
+http://117.169.124.37:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 tvg-id="FuZhouShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="Bo Kids",福州少儿 (1080p) [Not 24/7]
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="HeiMeiDongHua.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="Bo Kids",黑莓动画 (1080p)
+http://117.169.124.37:6610/ysten-businessmobile/live/donghuawg/yst.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Vietnamese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="BO_Japan",Animax Japan (Vietnamese Subs) (720p)
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="BO_Japan",Bloomberg TV Asia (720p)
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/8AM9fC8.jpg" group-title="BO_Japan",GSTV (720p)
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="GTNTyphome.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/gFKvgAd.jpg" group-title="BO_Japan",GTN Typhome (English Subs) (720p) [Not 24/7]
+https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
+#EXTINF:-1 tvg-id="GunmaTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/800px-Gtv_logo_ja_01.svg.png" group-title="BO_Japan",Gunma TV (720p)
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+#EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="BO_Japan",New Japan Pro Wrestling World (540p)
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="BO_Japan",NHK Chinese Vision (720p)
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="BO_Japan",NHK General TV (540p) [Not 24/7]
+https://nhk1.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="BO_Japan",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="BO_Japan",NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="BO_Japan",Shop Channel (720p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="BO_Japan",Tokyo MX (720p)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="BO_Japan",Tokyo MX1 (360p)
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="BO_Japan",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="WeatherChanneluezaniyusuBSWNI.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="BO_Japan",Weather Channel (ウェザーニュース) (BS | WNI) (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="BO_Japan",Weather News (720p)
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 tvg-id="TVTokyo.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png" group-title="BO_Japan",TV Tokyo (720p) [Not 24/7]
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="BO_Japan",Persiana Junior (720p)
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-country="BR" tvg-language="Japanese" tvg-logo="https://i.imgur.com/rmAm6UE.png" group-title="BO_Japan",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",ABU DHABI TV
+http://admdn2.cdn.mangomolo.com/adtv/adtv.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",ABU DHABI SPORT 1
+http://admdn5.cdn.mangomolo.com/adsports2/adsports2.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",ABU DHABI SPORT 2
+http://admdn3.cdn.mangomolo.com/adsports3/adsports3.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Al Jazeera Balkans
+http://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Al Jazeera Mubasher
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai
+http://dmisxthvll.cdn.mangomolo.com/dubaitvht/dubaitv.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC", Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/dubaione.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/events/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Racing 2
+http://dmisvthvll.cdn.mangomolo.com/events/events/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Sport 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Sport 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Sport 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/dubaizaman.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-ARABIC",CNBN Arabic
+https://cnbcarabia.hibridcdn.net/cnbc/cnbc_abr/cnbc/cnbc_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",ZEE Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",ZEE Anmol
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",ZEE Bollywood
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",ZEE TV
+http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)", Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Ashrafi Channel
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",B4U Bhojpuri
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",B4U Hits
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",B4U Movie
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",BFLIX Movie
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Nee Cinema 
+https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Santhora Short Flim 
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Star Cinema
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Thrill BO-INDIA (BOLLYWOD)
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Uthradam Movie
+http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Wow Cinema
+http://14.199.164.20:4001/play/a0n3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Naptool
+http://14.199.164.20:4001/play/a0n1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Punjab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Punjabi Zindaba
+http://stream.pztv.online/pztv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Puthuyugam TV 
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BO-INDIA (BOLLYWOD)",Music BO-INDIA (BOLLYWOD)
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",TRANS 7 CH1
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",TRANS TV CH1
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Magna Channel HD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",SCTV CH1
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",SCTV CH2
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",KompasTV
+http://210.210.155.35/qwr9ew/s/s104/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Elshinta TV
+http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",JAKARTA GLOBE NEWS
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Nusantara TV
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",El John TV HD
+https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Badar TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",TVOne
+http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Bali TV
+http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",U Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Bengkulu TV
+http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Jawapos TV CH1
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Jawapos TV CH2
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",RCTV
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Balikapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Riau TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",RBTV
+http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Padang TV
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Lifestyle
+http://45.126.83.51/uq2663/h/h28/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Knowledge
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Showbiz 1
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Showbiz 2
+http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Live Streaming 1
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="BO-INDONESIA",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
