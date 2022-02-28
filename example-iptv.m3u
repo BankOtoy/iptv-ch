@@ -1,49 +1,7 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Magna Channel HD
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",BERITA SATU
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",JAKARTA GLOBE NEWS
-https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Nusantara TV
-https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",El John TV HD
-https://5e60b0270fb77.streamlock.net/eljohntvlive/eljohntvlive/chunklist_kamiselaluada.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Badar TV
-https://e1.siar.us/badartv/live/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",CTV Banten
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",JITV
-http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Batam TV
-http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Jawapos TV CH1
-http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Jawapos TV CH2
-http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",RCTV
-http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Balikapan TV
-http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Riau TV
-http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",RBTV
-http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Padang TV
-http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",Kawanua TV
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Indonesia" tvg-language="Indonesian" tvg-logo="" group-title="Bo_Nasional",SMTV
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+#EXTM3U			
+#EXTINF:-1,MTV1 (Testing)
+https://video.1tv.com/clips/20130506/10400_loya-zvezdy.mp4
+#EXTINF:-1,MTV2 (Testing)
+https://video.1tv.com/clips/20180827/23140_muz1_vassel-rooby-like-magnetsonline_tv/muz1_vassel-rooby-like-magnetsonline_tv_1280x720.mp4
+#EXTINF:-1,MTV3 (Testing)
+https://video.1tv.com/clips/20210621/28084_muz1_little_big-everybody/muz1_little_big-everybody_1280x720.mp4
